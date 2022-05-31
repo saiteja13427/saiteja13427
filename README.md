@@ -1,7 +1,14 @@
 
 <img src="/images/banner.png">
 
+<!-- <div style="text-align:center;display:flex;justify-content:center;">
+
+![Sai Teja's Github Profile Views](https://komarev.com/ghpvc/?username=saiteja13427&color=yellow&style=for-the-badge)
+
+</div> -->
+
 # Hi there, I am Sai Teja ([@saai_tejaa](https://saiteja13427.github.io)) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
 
 **Who am I?**
 
@@ -41,5 +48,6 @@ I am currently doing my <strong><span style="background-color:yellow">Integrated
 
 📰 **My Blog**: [Lightmap](https://lightmap.dev/)
 
-👨 **My Portfolio**: [Portfolio](saiteja13427.github.io)
+👨 **My Portfolio**: [Portfolio](https://saiteja13427.github.io)
+
 
