@@ -1,38 +1,45 @@
-### Hi there 👋
 
-<a href="https://sourcerer.io/saiteja13427"><img src="https://avatars.githubusercontent.com/u/40917760?v=4" height="50px" width="50px" alt=""/></a>
+<img src="/images/banner.png">
 
-I am __Sai Teja__, currently doing my Integrated Mtech in Computer Sciences from University of Hyderabad. I love web development and distributed systems. I aspire to develop end to end products which would have a positive impact on the society.
+# Hi there, I am Sai Teja ([@saai_tejaa](https://saiteja13427.github.io)) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
----
+**Who am I?**
 
-😄 Pronouns: ...
-- He / Him
+I am currently doing my <strong><span style="background-color:yellow">Integrated Mtech in Computer Sciences from University of Hyderabad</span></strong>. I love web development and distributed systems. I aspire to develop end to end products which would have a positive impact on the society.
 
----
 
-📕 I'm currently learning ... 
-- Nest Js
-- Next Js
-- Webpack
-- Kubernetes
----
+**Pronouns**: He / Him
 
-💻 I’m currently working on ...
+**Find Me On**
+<div>
+<a href="https://www.linkedin.com/in/saai-tejaa/"><img src="/logos/linkedin.png" width="40" /></a>
+<a href="https://github.com/saiteja13427"><img src="/logos/github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/sai.baadshah.7/"><img src="/logos/facebook.png" width="40" /></a>
+<a href="mailto:saiteja13427@gmail.com"><img src="/logos/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/saai_tejaa"><img src="/logos/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/saai_tejaa"><img src="/logos/instagram.png" width="40" /></a>
+</div>
+
+<hr style="height:1px;background-color:#000">
+
+📕 **I'm currently learning** 
+- <span style="background-color:yellow;color:black;font-weight:800"> Advanced JS </span>
+- <span style="background-color:#3178c6;color:white;font-weight:800"> Typescript </span>
+- <span style="background-color:#E0234E;color:white;font-weight:800"> Nest Js </span>
+- <span style="background-color:#000;color:white;font-weight:800"> Next Js </span>
+- <span style="background-color:#8dd6f9;color:black;font-weight:800"> Webpack </span>
+- <span style="background-color:#326ce5;color:white;font-weight:800"> Kubernetes </span>
+
+
+💻 **I’m currently working on** 
 - A Job application management portal.
 - Dynamic deployment on heterogenous distributed cluster of resource constrained devices.
----
 
-👯 I’m looking to collaborate on ...
-- Any of the topics I am working on
 
----
+👯 **I’m looking to collaborate on**: Any of the topics I am working on
 
-📰 My Blog Website ...
-- [Lightmap](https://lightmap.dev/)
 
----
-👨 My Portfolio ...
-- [Portfolio](saiteja13427.github.io)
+📰 **My Blog**: [Lightmap](https://lightmap.dev/)
 
----
+👨 **My Portfolio**: [Portfolio](saiteja13427.github.io)
+
