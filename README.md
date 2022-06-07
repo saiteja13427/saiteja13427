@@ -7,7 +7,7 @@
 
 </div> -->
 
-# Hi there, I am Sai Teja ([@saai_tejaa](https://saiteja13427.github.io)) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+# Hi there, I am Sai Teja ([@saai_tejaa](https://saiteja13427.github.io))</h1>
 
 
 **Who am I?**
