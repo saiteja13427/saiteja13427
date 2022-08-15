@@ -12,7 +12,7 @@
 
 **Who am I?**
 
-I am currently doing my <strong><span style="background-color:yellow">Integrated Mtech in Computer Sciences from University of Hyderabad</span></strong>. I love web development and distributed systems. I aspire to develop end to end products which would have a positive impact on the society.
+I am currently doing my <strong><span style="background-color:yellow">Integrated Mtech in Computer Sciences from University of Hyderabad</span></strong>. I love web development and distributed systems. I aspire to develop end to end products which would have a positive impact on the society. I am also currently interning at [@intel](https://github.com/intel).
 
 
 **Pronouns**: He / Him
