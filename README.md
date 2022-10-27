@@ -35,12 +35,11 @@ I am currently doing my <strong><span style="background-color:yellow">Integrated
 - <span style="background-color:#E0234E;color:white;font-weight:800"> Nest Js </span>
 - <span style="background-color:#000;color:white;font-weight:800"> Next Js </span>
 - <span style="background-color:#8dd6f9;color:black;font-weight:800"> Webpack </span>
-- <span style="background-color:#326ce5;color:white;font-weight:800"> Kubernetes </span>
 
 
 💻 **I’m currently working on** 
-- A Job application management portal.
-- Dynamic deployment on heterogenous distributed cluster of resource constrained devices.
+- Optimised hosting platform for Wordpress.
+- Android OS and Android Compatibility Test Suite
 
 ⌨️ **I'm currently maintaining**
 - [MasterPortfolio (~2K ⭐)](https://github.com/ashutosh1919/masterPortfolio)
